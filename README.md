@@ -1,0 +1,1 @@
+# two-table-relations-prisma
